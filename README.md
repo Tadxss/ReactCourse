@@ -8,7 +8,8 @@ Running Project Locally
 
     For DT-P1-React-Essentials:
 
-    - npm run dev
+    npm install
+    npm run dev
 
 # Developer Information
 
