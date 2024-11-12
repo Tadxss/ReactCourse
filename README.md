@@ -2,7 +2,8 @@
 
 React Course Project
 
-- This course covers React complete fundamentals and must have knowledges.
+- This course covers React complete fundamentals and must have knowledges. 
+- React Core Concepts, Best Practices, Hooks, Redux, React Router, Next.js & More 
 
 Running Project Locally
 
